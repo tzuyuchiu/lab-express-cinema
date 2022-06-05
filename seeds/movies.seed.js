@@ -1,4 +1,4 @@
-const Movie = require('../models/Move.model.js');
+const Movie = require('../models/Movie.model.js');
 const openConnection = require('../db/index.js');
 const { default: mongoose } = require('mongoose');
 
